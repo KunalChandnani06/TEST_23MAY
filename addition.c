@@ -6,6 +6,8 @@ void main()
 		b=6;
 		c=8;
 		d= a+b+c;
-		printf("The addtion of two numbers: ",d)
+		i=a/b;
+		printf("The addtion of two numbers: ",d);
+		printf(i):
 			return 0;
 }
