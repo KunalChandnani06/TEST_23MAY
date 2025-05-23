@@ -11,5 +11,6 @@ void main()
 		g=a-b-c-e-f;
 		printf("The addtion of numbers: ",d)
 			printf("The substraction of the numbers",g)
+		printf("The addtion of two numbers: ",d)
 			return 0;
 }
