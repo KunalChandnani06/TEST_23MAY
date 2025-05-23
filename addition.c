@@ -13,6 +13,10 @@ void main()
 			printf("The ultiplication of 2 numbers",h)
 		g=a-b-c-e-f;
 		printf("The addtion of numbers: ",d)
-			printf("The substraction of the numbers",g)
+			printf("The substraction of the numbers",
+		d= a+b+c;
+		i=a/b;
+		printf("The addtion of two numbers: ",d);
+		printf(i
 			return 0;
 }
