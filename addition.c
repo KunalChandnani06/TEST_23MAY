@@ -10,7 +10,7 @@ void main()
 		d= a+b+c+e+f;
 		h=a*b*c*d*e*f;
 		printf("The addtion of two numbers: ",d)
-			printf("The ultiplication of 2 numbers",h)
+			printf("The multiplication of 2 numbers",h)
 		g=a-b-c-e-f;
 		printf("The addtion of numbers: ",d)
 			printf("The substraction of the numbers",
